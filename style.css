@@ -154,6 +154,7 @@ article {
 	height: 34px;
 	width: 34px;
 	background-color: #404040;
+	transition: all 0.28s linear;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -189,6 +190,7 @@ article {
 	background-color: #404040;
 	border-radius: 200px;
 	color: #ffffff;
+	transition: all 0.28s linear;
 }
 
 .join-us-button:hover {
