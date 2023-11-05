@@ -253,6 +253,12 @@ article {
 	padding: 54px;
 }
 
+.heading-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
 .goals-head {
 	font-size: 40px;
 	color: #2f2f2f;
@@ -268,6 +274,7 @@ article {
 	color: #606060;
 	font-size: 18px;
 	padding-top: 10px;
+	width: 725px;
 }
 
 .goals-grid {
@@ -462,6 +469,7 @@ article {
 
 	.goals-description {
 		font-size: 15px;
+		width: 600px;
 	}
 
 	.goals-item-head {
@@ -551,6 +559,7 @@ article {
 
 	.goals-description {
 		font-size: 12.75px;
+		width: 525px;
 	}
 
 	.goals-item-head {
@@ -592,11 +601,12 @@ article {
 	}
 
 	.goals-head {
-		font-size: 32px;
+		font-size: 30px;
 	}
 
 	.goals-description {
-		font-size: 16px;
+		font-size: 14px;
+		width: 100%;
 	}
 
 	.goals-item-head {
@@ -604,7 +614,7 @@ article {
 	}
 
 	.goals-item-para {
-		font-size: 15px;
+		font-size: 13px;
 	}
 
 	#national-emblem-section {
