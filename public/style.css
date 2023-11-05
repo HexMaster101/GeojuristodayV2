@@ -45,7 +45,6 @@ article {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	align-items: center;
 	opacity: 1;
 	transition: all 0.25s linear;
 	background-color: #ffffff;
@@ -56,6 +55,8 @@ article {
 }
 
 #intro h1 {
+	position: fixed;
+	top: 40%;
 	color: #c5aa6a;
 }
 
