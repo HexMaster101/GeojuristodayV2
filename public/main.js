@@ -23,12 +23,20 @@ const blogListArray = [
 		blogLink: "/blogs/china-dispute.html",
 	},
 	{
-		blogImageLink: "images/Untitled design (3).png",
+		blogImageLink: "images/Thumbnail for blog.png",
 		blogHeading: "Israel-Palestine Conflict.",
 		blogBy: "Rudraksh Aneja",
 		blogDescription:
 			"This research paper delves into the complex Israel-Palestine conflict, exploring the question of international law as a means to address and potentially resolve the longstanding dispute. The paper offers a comprehensive analysis of the historical, and United Nations resolutions in shaping the ongoing discourse and potential solutions in the region.",
 		blogLink: "/blogs/israel-palestine-conflict.html",
+	},
+	{
+		blogImageLink: "images/Unveiling the Aadhar Data Breach.png",
+		blogHeading: "Rohingya Crisis",
+		blogBy: "Rudraksh Aneja",
+		blogDescription:
+			"This research paper delves into the complex Israel-Palestine conflict, exploring the question of international law as a means to address and potentially resolve the longstanding dispute. The paper offers a comprehensive analysis of the historical, and United Nations resolutions in shaping the ongoing discourse and potential solutions in the region.",
+		blogLink: "/blogs/rohingya-issue.html",
 	},
 ];
 
