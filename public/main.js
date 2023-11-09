@@ -19,15 +19,15 @@ const blogListArray = [
 		blogHeading: "South China Sea Dispute",
 		blogBy: "Rudraksh Aneja",
 		blogDescription:
-			"This research paper examines the South China Sea dispute, a volatile territorial conflict involving multiple nations, with a particular focus on the role of the United Nations Convention on the Law of the Sea (UNCLOS) as a framework for addressing the issues. It analyzes historical context, legal dimensions, political dynamics.",
+			"This research paper examines the South China Sea dispute, a volatile territorial conflict involving multiple nations, with a particular focus on the role of the United Nations.",
 		blogLink: "/blogs/china-dispute.html",
 	},
 	{
 		blogImageLink: "images/Thumbnail for blog.png",
-		blogHeading: "Israel-Palestine Conflict.",
+		blogHeading: "Israel-Palestine Conflict",
 		blogBy: "Rudraksh Aneja",
 		blogDescription:
-			"This research paper delves into the complex Israel-Palestine conflict, exploring the question of international law as a means to address and potentially resolve the longstanding dispute. The paper offers a comprehensive analysis of the historical, and United Nations resolutions in shaping the ongoing discourse and potential solutions in the region.",
+			"This research paper delves into the complex Israel-Palestine conflict, exploring the question of international law as a means to address and potentially resolve the longstanding dispute.",
 		blogLink: "/blogs/israel-palestine-conflict.html",
 	},
 	{
@@ -35,8 +35,7 @@ const blogListArray = [
 		blogHeading: "Rohingya Crisis",
 		blogBy: "Rudraksh Aneja",
 		blogDescription:
-			"This research paper delves into the complex Israel-Palestine conflict, exploring the question of international law as a means to address and potentially resolve the longstanding dispute. The paper offers a comprehensive analysis of the historical, and United Nations resolutions in shaping the ongoing discourse and potential solutions in the region.",
-		blogLink: "/blogs/rohingya-issue.html",
+			"India's approach to the Rohingya crisis involves a delicate balance between national security interests and humanitarian concerns.",
 	},
 ];
 
