@@ -36,6 +36,7 @@ const blogListArray = [
 		blogBy: "Rudraksh Aneja",
 		blogDescription:
 			"India's approach to the Rohingya crisis involves a delicate balance between national security interests and humanitarian concerns.",
+		blogLink: "/blogs/rohingya-issue.html",
 	},
 ];
 
