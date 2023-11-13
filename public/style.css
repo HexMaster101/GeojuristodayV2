@@ -27,7 +27,18 @@ main[name="blogSection"] {
 	justify-content: center;
 }
 
-article {
+main[name="about-us-section"] {
+	padding: 30px 0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+main[name="about-us-section"] article {
+	width: 980px;
+}
+
+main[name="blogSection"] article {
 	width: 980px;
 	padding-top: 64px;
 	padding-bottom: 64px;
@@ -268,6 +279,12 @@ article {
 	padding: 6.25px 0px;
 }
 
+.goals-head2 {
+	font-size: 40px;
+	color: #2f2f2f;
+	padding: 0 0 10px 10px;
+}
+
 .goals-head span {
 	color: #c5aa6a;
 }
@@ -399,6 +416,16 @@ article {
 	font-size: 26px;
 	margin-right: 4rem;
 	width: 600px;
+}
+
+main[name="about-us-section"] h1 {
+	font-size: 30px;
+}
+
+main[name="about-us-section"] p {
+	margin-top: 25px;
+	font-size: 20px;
+	padding: 0px 10px;
 }
 
 /* ========================
