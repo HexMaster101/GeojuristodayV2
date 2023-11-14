@@ -28,14 +28,14 @@ main[name="blogSection"] {
 }
 
 main[name="about-us-section"] {
-	padding: 30px 0px;
+	padding: 40px 6px;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 }
 
 main[name="about-us-section"] article {
-	width: 980px;
+	max-width: 980px;
 }
 
 main[name="blogSection"] article {
@@ -279,12 +279,6 @@ main[name="blogSection"] article {
 	padding: 6.25px 0px;
 }
 
-.goals-head2 {
-	font-size: 40px;
-	color: #2f2f2f;
-	padding: 0 0 10px 10px;
-}
-
 .goals-head span {
 	color: #c5aa6a;
 }
@@ -418,11 +412,13 @@ main[name="blogSection"] article {
 	width: 600px;
 }
 
-main[name="about-us-section"] h1 {
+.about-us-head {
 	font-size: 30px;
+	color: #2f2f2f;
+	padding: 0 0 10px 10px;
 }
 
-main[name="about-us-section"] p {
+.about-us-description {
 	margin-top: 50px;
 	font-size: 20px;
 	padding: 0px 10px;
@@ -694,6 +690,17 @@ main[name="about-us-section"] p {
 
 	.national-emblem-text {
 		font-size: 16px;
+	}
+
+	.about-us-head {
+		font-size: 24px;
+		padding: 0 0 6px 10px;
+	}
+
+	.about-us-description {
+		font-size: 16px;
+		margin-top: 30px;
+		padding: 0px 6px;
 	}
 }
 
