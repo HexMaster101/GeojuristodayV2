@@ -100,11 +100,12 @@ main[name="blogSection"] article {
 }
 
 #geojuristoday-logo {
-	background-image: url("/images/logo.png");
+	background-image: url("/images/GE\ copy.png");
+	margin-top: 6px;
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 62.5px;
-	width: 62.5px;
+	height: 70px;
+	width: 175px;
 }
 
 .navbar-upper nav {
@@ -470,8 +471,9 @@ main[name="blogSection"] article {
 	}
 
 	#geojuristoday-logo {
-		height: 50px;
-		width: 50px;
+		margin-top: 4px;
+		height: 60px;
+		width: 150px;
 	}
 
 	.navbar-upper li a {
@@ -553,8 +555,9 @@ main[name="blogSection"] article {
 	}
 
 	#geojuristoday-logo {
-		height: 48px;
-		width: 48px;
+		margin-top: 4px;
+		height: 60px;
+		width: 150px;
 	}
 
 	.navbar-upper nav {
@@ -714,8 +717,9 @@ main[name="blogSection"] article {
 	}
 
 	#geojuristoday-logo {
-		height: 40px;
-		width: 40px;
+		margin-top: 4px;
+		height: 60px;
+		width: 150px;
 	}
 
 	.contact-us {
